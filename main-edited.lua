@@ -232,12 +232,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
@@ -287,12 +287,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
@@ -342,12 +342,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
@@ -397,12 +397,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
@@ -452,12 +452,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
@@ -507,12 +507,12 @@ if data.StatusCode == 200 then
                     User.CFrame = TPCFrame
 
                     local args = {
-                        [1] = "__--r",
+                        [1] = "__---r",
                         [2] = game.Players.LocalPlayer.Character.HumanoidRootPart.Position,
                         [3] = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, 0, 0)
                     }
 
-                    game:GetService("ReplicatedStorage").Events.__DFfDD:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").Events.__RZDONL:FireServer(unpack(args))
                 end
             end
         )
